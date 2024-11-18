@@ -23,7 +23,7 @@
 	},
 	"devDependencies": {
 		"@antfu/eslint-config": "^3.8.0",
-		"@nuxtjs/apollo": "^5.0.0-alpha.9",
+		"@nuxtjs/apollo": "5.0.0-alpha.14",
 		"cz-conventional-changelog": "^3.3.0",
 		"eslint": "^9.14.0",
 		"eslint-config-prettier": "^9.0.0",
@@ -39,6 +39,7 @@
 		"vite-plugin-vuetify": "^2.0.4"
 	},
 	"dependencies": {
+		"@apollo/client": "^3.11.10",
 		"@mdi/font": "^7.2.96",
 		"@pinia/nuxt": "^0.5.1",
 		"sass": "^1.68.0",
